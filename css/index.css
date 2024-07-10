@@ -312,10 +312,11 @@ color: #ffffff;
 /* footer section */
 
 .footer {
+  max-width: 1440px;
   padding: 30px 150px;
   border-radius: 16px;
+background: rgba(13, 19, 33, 0.03);
 
-  background: rgba(13, 19, 33, 0.03);
 
 }
 .footer-content{
