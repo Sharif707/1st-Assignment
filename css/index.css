@@ -307,3 +307,27 @@ color: #ffffff;
 
  
 }
+
+
+/* footer section */
+
+.footer {
+  padding: 30px 150px;
+  border-radius: 16px;
+
+  background: rgba(13, 19, 33, 0.03);
+
+}
+.footer-content{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 24px;
+
+}
+.social-icon-list{
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+}
